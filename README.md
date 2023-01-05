@@ -52,7 +52,6 @@
 
 ```BASH
 Contact_v6.0_YellowPlus
-|
 ├─CORE     
 ├─FWLIB         
 ├─HARDWARE         
